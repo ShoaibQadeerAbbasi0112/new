@@ -1,0 +1,15 @@
+{
+  "title": "ShoaibQadeer",
+  "description": "Self Motivated - Learner",
+"image": "https://img.freepik.com/free-photo/glad-young-man-with-african-hairstyle-posing-with-arms-crossed-his-office-with-other-employees-male-manager-blue-shirt-smiling-during-conference-workplace_197531-3748.jpg",
+  "articles": [
+    { "id": "1", "title": "React Native FAQ" },
+    { "id": "2", "title": "GraphQL APIs FAQ" },
+    { "id": "3", "title": "JavaScript 101" }
+  ],
+ "projects": [
+    { "id": "1", "title": "LMS APP" },
+    { "id": "2", "title": "Android APP" },
+    { "id": "3", "title": "Swing Based Banking App" }
+  ]
+}
