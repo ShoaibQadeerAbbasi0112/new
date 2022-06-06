@@ -1,0 +1,51 @@
+{
+	"name": "Shoaib Qadeer Abbasi",
+	"image": "",
+	"profession": "Web Developer",
+	"caption": "Self Motivated, Learner",
+	"skills": [{
+			"id": "1",
+			"title": "Web Development",
+			"experience": "2.5 years"
+		},
+		{
+			"id": "2",
+			"title": "UI Design",
+			"experience": "0.5 years"
+		},
+		{
+			"id": "3",
+			"title": "App Development",
+			"experience": "1.5 years"
+		},
+		{
+			"id": "4",
+			"title": "Project Management",
+			"experience": "1.5 years"
+		}
+
+	],
+	"projects": [{
+			"id": "1",
+			"title": "LMS ",
+			"tech": "MERN & Figma"
+		},
+		{
+			"id": "2",
+			"title": "Banking App",
+			"tech": "Java Swing & SQL"
+		},
+		{
+			"id": "3",
+			"title": "App Development",
+			"experience": "1.5 years"
+		},
+		{
+			"id": "4",
+			"title": "Project Management",
+			"experience": "1.5 years"
+		}
+
+	]
+
+}
